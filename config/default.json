@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://admin:1234@cluster0.zrawc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "omarahmed"
+    "jwtSecret": "omarahmed",
+    "githubClientId": "790bcd2788e79d530cff",
+    "githubSecret": "cf3c741991dfa9b1a167fadc61ef12240157512f"
 }
