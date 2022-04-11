@@ -26,7 +26,6 @@ const Login = ({ login, isAuthenticated }) => {
   if (isAuthenticated) {
     return <Navigate to='/dashboard' />
   }
-  console.log(isAuthenticated)
 
   return (
     <section className='container'>
